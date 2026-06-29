@@ -1,5 +1,7 @@
 # Desolate Sky Minecraft Server
 
+### This repository is marked as archived because I have started a new codebase for the server. If you are interested in development, please join the discord below.
+
 This is a project I work on for fun in my free time, and is a work in progress.
 If you would like to give suggestions or feedback, feel free to create an issue or join the [discord server](https://discord.gg/qPg2GT2gMA).
 I am also open to PR's or people joining me in working on the project if interested. 
